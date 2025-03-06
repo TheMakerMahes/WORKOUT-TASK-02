@@ -1,6 +1,6 @@
 /*
 A Library Charges a fine for every book returned late for First 5 Days fine is 50 paise,for 6 - 10 days
-fine is 1 rupee and above 10 days fine is 5 rupees.if you return the book after 30 days your membership will 
+fine is 1 rupees and above 10 days fine is 5 rupees.if you return the book after 30 days your membership will 
 be cancelled.write a Program to accept the number of days the member is late to return the book and display 
 the fine or the appropriate message ?
 */
