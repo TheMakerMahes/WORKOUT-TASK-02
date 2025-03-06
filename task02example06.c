@@ -1,5 +1,5 @@
 /*
-Write a program for the following output using switch case
+Write a Program for the following output using switch case
 
      MENU CARD
           1.COFEE
