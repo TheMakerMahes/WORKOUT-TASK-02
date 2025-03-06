@@ -1,5 +1,5 @@
 /*
-Write a Program to find the given Charactor is vowels(a,e,i,o,u) or not using switch case ?
+Write a Program to Find the given Charactor is vowels(a,e,i,o,u) or not using switch case ?
 */
 #include<stdio.h>
 int main()
