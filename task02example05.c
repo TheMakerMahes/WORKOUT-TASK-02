@@ -1,6 +1,6 @@
 /*
 Any Three Digit Integer is input through the Keyboard.write a Program to find the given 
-Three Digit number is Armstrong number or Not ?
+Three Digit number is Armstrong Number or Not ?
 */
 #include<stdio.h>
 int main()
